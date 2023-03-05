@@ -4,7 +4,7 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
-
+        megrim: ["Megrim"],
       },
     },
   },
