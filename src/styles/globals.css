@@ -7,7 +7,7 @@
   }
   #__next,
   body {
-    @apply h-[100vh] w-[100vw] overflow-y-auto lg:text-[1rem];
+    @apply h-[100vh] w-[100vw] overflow-y-auto bg-black lg:text-[1rem];
   }
   #__next {
     @apply flex h-full flex-col items-center justify-center bg-[url("https://epsilon.aeon.co/images/78ba87e7-7198-4468-81b5-500c505d5bc8/header_essay-gettyimages-1237093074.jpg")] bg-cover bg-center bg-no-repeat;
