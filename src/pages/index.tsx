@@ -11,6 +11,7 @@ const Home: NextPage = () => {
   return (
     <>
       <HtmlHead />
+      <Link href="./app">Go To App</Link>
     </>
   );
 };
