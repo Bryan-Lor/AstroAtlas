@@ -12,4 +12,7 @@
   #__next {
     @apply flex flex-col;
   }
+  /* bg-milkyway {
+    background-image: "/public/2k_stars_milky_way.webp";
+  } */
 }
