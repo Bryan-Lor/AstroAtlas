@@ -1,16 +1,23 @@
-import { useRef } from "react";
+import { Suspense } from "react";
 import Spline from "@splinetool/react-spline";
-
 export default function SplineApp() {
   return (
     <div
       className="h-full w-full bg-gradient-to-b from-[#111111] to-[#000000]"
       style={{
         backgroundImage: "url('2k_stars_milky_way.webp')",
-        backgroundSize: "cover",
+        // backgroundImage: "url('ebf92832fd0e8ef1744ddd9de4afc820.png')",
       }}
     >
-      <Spline scene="https://prod.spline.design/cXHxMnoVz3A6lxlH/scene.splinecode" />
+      <Suspense
+      //   fallback={
+      //     <div className="flex h-full w-full justify-center text-center align-middle">
+      //       <img src="/public/loading.gif" />
+      //     </div>
+      //   }
+      >
+        <Spline scene="https://prod.spline.design/cXHxMnoVz3A6lxlH/scene.splinecode" />
+      </Suspense>
     </div>
   );
 }
