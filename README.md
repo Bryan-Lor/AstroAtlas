@@ -1,6 +1,9 @@
   # AstroAtlas [WayneHacks 2023 - 3rd Place Hackathon Project]
 <img src="readme-images/LandingPage.jpg" />
 Explore the solar system in 3D! Discover planets and moons with immersive animations and detailed information. An educational experience for all.
+
+[Visit The Demo](https://astro-atlas.vercel.app/)
+
 ##
 ### Inspiration
 We were inspired by NASA's 3d model of the solar system and wanted to take a similar approach. However, NASA's version is filled with a lot of information and is meant for more hard-core space enthusiasts. We wanted to create a more user-friendly and casual interactive website that would educate people about interesting things about Astronomy.
@@ -15,5 +18,3 @@ AstroAtlas provides an engaging and informative way to learn about the solar sys
 
 ### Built With
 Spline, Three.js, Next.js, React.js, TailwindCSS. Deployed on Vercel
-
-[Visit The Demo](https://astro-atlas.vercel.app/)
