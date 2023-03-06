@@ -1,28 +1,19 @@
-# Create T3 App
+  # AstroAtlas [WayneHacks 2023 - 3rd Place Hackathon Project]
+<img src="readme-images/LandingPage.jpg" />
+Explore the solar system in 3D! Discover planets and moons with immersive animations and detailed information. An educational experience for all.
+##
+### Inspiration
+We were inspired by NASA's 3d model of the solar system and wanted to take a similar approach. However, NASA's version is filled with a lot of information and is meant for more hard-core space enthusiasts. We wanted to create a more user-friendly and casual interactive website that would educate people about interesting things about Astronomy.
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+### What it does
+AstroAtlas provides an engaging and informative way to learn about the solar system. It allows users to explore the planets and moons in a realistic 3d environment, with immersive animations that simulate space travel. Users can access detailed information about each celestial body, including its size, composition, and orbit. The website is designed to be both fun and educational, catering to space enthusiasts, students, and anyone who is curious about the universe.
 
-## What's next? How do I make an app with this?
+<img src="readme-images/App.png" />
+<img src="readme-images/Learn.png" />
+<img src="readme-images/Learn2.png" />
+<img src="readme-images/Mobile.png"/>
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+### Built With
+Spline, Three.js, Next.js, React.js, TailwindCSS. Deployed on Vercel
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
-
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
-
-## Learn More
-
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+[Visit The Demo](https://astro-atlas.vercel.app/)
