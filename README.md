@@ -1,4 +1,4 @@
-  # AstroAtlas [WayneHacks 2023 - 3rd Place Hackathon Submission]
+  # AstroAtlas [WayneHacks 2023 - 2rd Place Hackathon Submission]
 <img src="readme-images/LandingPage.jpg" />
 Explore the solar system in 3D! Discover planets and moons with immersive animations and detailed information. An educational experience for all.  
   
